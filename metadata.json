@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gemini Multimedia Studio",
+  "description": "A high-end creative suite for generating images, editing photos with AI, creating cinematic videos with Veo, and real-time voice conversations using the Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
